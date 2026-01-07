@@ -1,0 +1,17 @@
+FLEXIMART DATA QUALITY REPORT
+----------------------------------
+
+Customers Records Processed: 26
+Customer Duplicates Removed: 1
+Customers Loaded: 25
+
+Products Records Processed: 20
+Product Duplicates Removed: 0
+Products Loaded: 20
+
+Sales Records Processed: 41
+Sales Duplicates Removed: 1
+Sales Missing Customer IDs Dropped: 3
+Sales Missing Product IDs Dropped: 2
+Orders Loaded: 35
+Order Items Loaded: 35
